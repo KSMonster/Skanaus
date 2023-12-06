@@ -38,3 +38,17 @@ C:\Users\Norbertas\RiderProjects\Skanaus\Skanaus\obj\Debug\net7.0\refint\Skanaus
 C:\Users\Norbertas\RiderProjects\Skanaus\Skanaus\obj\Debug\net7.0\Skanaus.pdb
 C:\Users\Norbertas\RiderProjects\Skanaus\Skanaus\obj\Debug\net7.0\Skanaus.genruntimeconfig.cache
 C:\Users\Norbertas\RiderProjects\Skanaus\Skanaus\obj\Debug\net7.0\ref\Skanaus.dll
+C:\Users\Norbertas\RiderProjects\Skanaus\Skanaus\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Norbertas\RiderProjects\Skanaus\Skanaus\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Norbertas\RiderProjects\Skanaus\Skanaus\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Norbertas\RiderProjects\Skanaus\Skanaus\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Norbertas\RiderProjects\Skanaus\Skanaus\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Norbertas\RiderProjects\Skanaus\Skanaus\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Norbertas\RiderProjects\Skanaus\Skanaus\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Norbertas\RiderProjects\Skanaus\Skanaus\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Norbertas\RiderProjects\Skanaus\Skanaus\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Norbertas\RiderProjects\Skanaus\Skanaus\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Norbertas\RiderProjects\Skanaus\Skanaus\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Norbertas\RiderProjects\Skanaus\Skanaus\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Norbertas\RiderProjects\Skanaus\Skanaus\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Norbertas\RiderProjects\Skanaus\Skanaus\bin\Debug\net7.0\System.Security.Permissions.dll
