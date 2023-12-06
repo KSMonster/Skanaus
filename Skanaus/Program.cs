@@ -15,7 +15,7 @@ using Skanaus.Auth.Model;
 
 JwtSecurityTokenHandler.DefaultInboundClaimTypeMap.Clear();
 
-//asdf
+//
 //
 //
 
