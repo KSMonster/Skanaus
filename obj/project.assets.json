@@ -2679,11 +2679,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Norbertas\\RiderProjects\\Skanaus\\Skanaus\\Skanaus.csproj",
+      "projectUniqueName": "C:\\Users\\Norbertas\\Desktop\\skanaus 4\\Skanaus\\Skanaus.csproj",
       "projectName": "Skanaus",
-      "projectPath": "C:\\Users\\Norbertas\\RiderProjects\\Skanaus\\Skanaus\\Skanaus.csproj",
+      "projectPath": "C:\\Users\\Norbertas\\Desktop\\skanaus 4\\Skanaus\\Skanaus.csproj",
       "packagesPath": "C:\\Users\\Norbertas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Norbertas\\RiderProjects\\Skanaus\\Skanaus\\obj\\",
+      "outputPath": "C:\\Users\\Norbertas\\Desktop\\skanaus 4\\Skanaus\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Norbertas\\AppData\\Roaming\\NuGet\\NuGet.Config",

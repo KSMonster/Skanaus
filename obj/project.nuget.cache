@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SqFf5HfI9443MQ4M0p+lJBOI0l6ffXB3jz5Q27djGDrWaNNoOTPSXYX4lMqtb1EEfCwvwVrXK4eKzqQDVWoa6g==",
+  "dgSpecHash": "ZFQp4UE3ZXuvI/Nr7qoFeCGFRvg+jEF3PQZf7wFPZx8dNtSYIvMCNiBf/1L8sSTtPaFluD9Ug1iQ4IWsNui/sQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Norbertas\\RiderProjects\\Skanaus\\Skanaus\\Skanaus.csproj",
+  "projectFilePath": "C:\\Users\\Norbertas\\Desktop\\skanaus 4\\Skanaus\\Skanaus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Norbertas\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
     "C:\\Users\\Norbertas\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.7.1\\fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
