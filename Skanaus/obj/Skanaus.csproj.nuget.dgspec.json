@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Norbertas\\Desktop\\skanaus 4\\Skanaus\\Skanaus.csproj": {}
+    "C:\\Users\\Norbertas\\Desktop\\skanaus 5\\Skanaus\\Skanaus\\Skanaus.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Norbertas\\Desktop\\skanaus 4\\Skanaus\\Skanaus.csproj": {
+    "C:\\Users\\Norbertas\\Desktop\\skanaus 5\\Skanaus\\Skanaus\\Skanaus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Norbertas\\Desktop\\skanaus 4\\Skanaus\\Skanaus.csproj",
+        "projectUniqueName": "C:\\Users\\Norbertas\\Desktop\\skanaus 5\\Skanaus\\Skanaus\\Skanaus.csproj",
         "projectName": "Skanaus",
-        "projectPath": "C:\\Users\\Norbertas\\Desktop\\skanaus 4\\Skanaus\\Skanaus.csproj",
+        "projectPath": "C:\\Users\\Norbertas\\Desktop\\skanaus 5\\Skanaus\\Skanaus\\Skanaus.csproj",
         "packagesPath": "C:\\Users\\Norbertas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Norbertas\\Desktop\\skanaus 4\\Skanaus\\obj\\",
+        "outputPath": "C:\\Users\\Norbertas\\Desktop\\skanaus 5\\Skanaus\\Skanaus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Norbertas\\AppData\\Roaming\\NuGet\\NuGet.Config",
