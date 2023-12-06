@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gy5g9duK0Q1B1KtJLburkVL0FPnjXL5QCymDQoW0ctTgQvWt8wUFf1fLGTvK1T5IQtqpLDiH9zzVVb75t0QBhQ==",
+  "dgSpecHash": "fZrJI/qWxNWRFdKVwmoIs5QDdC7nZu3C7wDs/vFJpj+eOWk8E/mPno422egCah0HZsLoxB+clcZCSZny5AHdfg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Norbertas\\Desktop\\skanaus 5\\Skanaus\\Skanaus\\Skanaus.csproj",
   "expectedPackageFiles": [
@@ -70,7 +70,13 @@
     "C:\\Users\\Norbertas\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
     "C:\\Users\\Norbertas\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
     "C:\\Users\\Norbertas\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\Norbertas\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+    "C:\\Users\\Norbertas\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\Norbertas\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.5\\microsoft.netcore.app.runtime.win-x64.7.0.5.nupkg.sha512",
+    "C:\\Users\\Norbertas\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-musl-x64\\7.0.5\\microsoft.netcore.app.runtime.linux-musl-x64.7.0.5.nupkg.sha512",
+    "C:\\Users\\Norbertas\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.5\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.5.nupkg.sha512",
+    "C:\\Users\\Norbertas\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.5\\microsoft.aspnetcore.app.runtime.win-x64.7.0.5.nupkg.sha512",
+    "C:\\Users\\Norbertas\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-musl-x64\\7.0.5\\microsoft.aspnetcore.app.runtime.linux-musl-x64.7.0.5.nupkg.sha512",
+    "C:\\Users\\Norbertas\\.nuget\\packages\\microsoft.netcore.app.host.linux-musl-x64\\7.0.5\\microsoft.netcore.app.host.linux-musl-x64.7.0.5.nupkg.sha512"
   ],
   "logs": []
 }
