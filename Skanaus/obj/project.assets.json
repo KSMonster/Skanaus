@@ -409,7 +409,7 @@
           }
         }
       },
-      "Microsoft.EntityFrameworkCore.Analyzers/8.0.0": {
+      "Microsoft.EntityFrameworkCore.Analyzers/7.0.14": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/_._": {}
@@ -1553,7 +1553,7 @@
           }
         }
       },
-      "Microsoft.EntityFrameworkCore.Analyzers/8.0.0": {
+      "Microsoft.EntityFrameworkCore.Analyzers/7.0.14": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/_._": {}
@@ -2653,7 +2653,7 @@
           }
         }
       },
-      "Microsoft.EntityFrameworkCore.Analyzers/8.0.0": {
+      "Microsoft.EntityFrameworkCore.Analyzers/7.0.14": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/_._": {}
@@ -3752,17 +3752,17 @@
         "microsoft.entityframeworkcore.abstractions.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Analyzers/8.0.0": {
-      "sha512": "ZXxEeLs2zoZ1TA+QoMMcw4f3Tirf8PzgdDax8RoWo0dxI2KmqiEGWYjhm2B/XyWfglc6+mNRyB8rZiQSmxCpeg==",
+    "Microsoft.EntityFrameworkCore.Analyzers/7.0.14": {
+      "sha512": "esI4RF6mix4DDFBhWB9k1vJxAL8GouSf5ZV8oFJoVsIQ9d2J3MPgC1VL2qM9Vw5cH7Vg7TzRyKNpCRXFVkWs9w==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.analyzers/8.0.0",
+      "path": "microsoft.entityframeworkcore.analyzers/7.0.14",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "analyzers/dotnet/cs/Microsoft.EntityFrameworkCore.Analyzers.dll",
         "lib/netstandard2.0/_._",
-        "microsoft.entityframeworkcore.analyzers.8.0.0.nupkg.sha512",
+        "microsoft.entityframeworkcore.analyzers.7.0.14.nupkg.sha512",
         "microsoft.entityframeworkcore.analyzers.nuspec"
       ]
     },
@@ -4868,7 +4868,7 @@
       "Microsoft.AspNetCore.Identity >= 2.2.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 7.0.14",
       "Microsoft.EntityFrameworkCore >= 7.0.14",
-      "Microsoft.EntityFrameworkCore.Analyzers >= 8.0.0",
+      "Microsoft.EntityFrameworkCore.Analyzers >= 7.0.14",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.14",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 7.0.11",
       "O9d.AspNet.FluentValidation >= 0.1.1"
@@ -4940,7 +4940,7 @@
           },
           "Microsoft.EntityFrameworkCore.Analyzers": {
             "target": "Package",
-            "version": "[8.0.0, )"
+            "version": "[7.0.14, )"
           },
           "Microsoft.EntityFrameworkCore.Tools": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",

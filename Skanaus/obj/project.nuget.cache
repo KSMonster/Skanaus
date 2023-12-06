@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/+072/W/DqE93kz4WoNPddbCLQPa1fyfqRxXuQGBj/v0/FXkq6BAWqbvBGQFvI84WK65Q3HXwMd+xNUgOqLkaQ==",
+  "dgSpecHash": "cS+cfe7T7btvYfuSkrdcl69+KiXtgkQb2lAvGpBOmTTI+ti5uCGlPlPcBWFPSZzWh88jqsDab2lntZqYAW3e7Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Norbertas\\Desktop\\skanaus 5\\Skanaus\\Skanaus\\Skanaus.csproj",
   "expectedPackageFiles": [
@@ -28,7 +28,7 @@
     "C:\\Users\\Norbertas\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Norbertas\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.14\\microsoft.entityframeworkcore.7.0.14.nupkg.sha512",
     "C:\\Users\\Norbertas\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.14\\microsoft.entityframeworkcore.abstractions.7.0.14.nupkg.sha512",
-    "C:\\Users\\Norbertas\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.0\\microsoft.entityframeworkcore.analyzers.8.0.0.nupkg.sha512",
+    "C:\\Users\\Norbertas\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.14\\microsoft.entityframeworkcore.analyzers.7.0.14.nupkg.sha512",
     "C:\\Users\\Norbertas\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.14\\microsoft.entityframeworkcore.design.7.0.14.nupkg.sha512",
     "C:\\Users\\Norbertas\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.14\\microsoft.entityframeworkcore.relational.7.0.14.nupkg.sha512",
     "C:\\Users\\Norbertas\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.14\\microsoft.entityframeworkcore.tools.7.0.14.nupkg.sha512",
