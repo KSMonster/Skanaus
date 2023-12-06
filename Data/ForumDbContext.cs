@@ -1,9 +1,12 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
+using Skanaus.Auth.Model;
 using Skanaus.Data.Entities;
 
 namespace Skanaus.Data;
 
-public class ForumDbContext : DbContext
+#nullable disable
+public class ForumDbContext : IdentityDbContext<ForumRestUser>
 {
     private readonly IConfiguration _configuration;
     public DbSet<Kitchen> Kitchens { get; set; }
@@ -17,6 +20,7 @@ public class ForumDbContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseNpgsql(_configuration.GetConnectionString("PostgreSQL"));
+        optionsBuilder.UseNpgsql(_configuration.GetValue<string>("PostgreSQLConnectionString"));
+        //optionsBuilder.UseNpgsql(_configuration.GetConnectionString("PostgreSQL"));
     }
 }
