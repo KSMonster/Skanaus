@@ -14,6 +14,7 @@
           "Microsoft.AspNetCore.Identity": "2.2.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.14",
           "Microsoft.EntityFrameworkCore": "7.0.14",
+          "Microsoft.EntityFrameworkCore.Analyzers": "7.0.14",
           "Microsoft.EntityFrameworkCore.Tools": "7.0.14",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "7.0.11",
           "O9d.AspNet.FluentValidation": "0.1.1"
