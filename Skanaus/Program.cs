@@ -52,6 +52,19 @@ builder.Services.AddAuthentication(options =>
 
 builder.Services.AddAuthorization();
 
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(
+        policy =>
+        {
+            policy
+
+                .WithOrigins("http://localhost:3000")
+                .AllowAnyHeader()
+                .AllowAnyMethod();
+        });
+});
+
 
 
 
@@ -76,6 +89,8 @@ app.AddRecipeApi();
 app.AddCommentApi();
 
 app.AddAuthApi();
+
+app.UseCors();
 
 app.UseAuthentication();
 app.UseAuthorization();
