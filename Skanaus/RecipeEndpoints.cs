@@ -42,7 +42,7 @@ public static class RecipeEndpoints
                 return Results.Ok(recipe);
             });
 
-        recipeGroup.MapPost("recipes/{recipeId}",
+        recipeGroup.MapPost("recipes",
             async ([Validate] CreateRecipeDto createRecipeDto, int kitchenId, HttpContext httpContext,
                 ForumDbContext dbContext) =>
             {
